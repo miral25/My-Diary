@@ -25,6 +25,4 @@ It was created using HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP and MYSQL Technologie
 ![6](https://user-images.githubusercontent.com/29537650/84148767-0f25f080-aa7d-11ea-8ed1-a30a0260a525.png)
 
 
-![7](https://user-images.githubusercontent.com/29537650/84148772-10571d80-aa7d-11ea-9504-9885678167d8.png)
-
 
