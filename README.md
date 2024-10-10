@@ -1,12 +1,71 @@
 # WDL-MY-DIARY
 
-MY DIARY
+## Overview
+WDL-MY-DIARY is an online personalized diary application that allows users to log in and manage their personal entries. 
 
-The project consists of an Online Personalized Diary with a Login System.
+## Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+- **PHP**
+- **MySQL**
 
-It was created using HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP and MYSQL Technologies.
+## Features
+- User authentication system
+- Personalized diary entries
+- Responsive design using Bootstrap
 
+## Installation
+1. Clone the repository:  
+   `git clone https://github.com/miral25/WDL-MY-DIARY.git`
+2. Set up a local server (e.g., XAMPP, WAMP).
+3. Import the `vote.sql` file into your MySQL database.
+4. Configure the database connection in `dbConnection.php`.
 
+## Usage
+- Open `index.php` in your browser to access the application.
+- Log in or sign up to start using the diary.
+
+## License
+This project is licensed under the MIT License.
+
+# WDL-MY-DIARY
+
+## Overview
+WDL-MY-DIARY is an online personalized diary application that allows users to log in and manage their personal entries. 
+
+## Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+- **PHP**
+- **MySQL**
+
+## Features
+- User authentication system
+- Personalized diary entries
+- Responsive design using Bootstrap
+
+## Installation
+1. Clone the repository:  
+   `git clone https://github.com/miral25/WDL-MY-DIARY.git`
+2. Set up a local server (e.g., XAMPP, WAMP).
+3. Import the `vote.sql` file into your MySQL database.
+4. Configure the database connection in `dbConnection.php`.
+
+## Usage
+- Open `index.php` in your browser to access the application.
+- Log in or sign up to start using the diary.
+
+## Contributing
+Contributions are welcome! Please submit a pull request or create an issue for improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License.
+
+## Screenshots
 ![1](https://user-images.githubusercontent.com/29537650/84148739-07fee280-aa7d-11ea-83e4-86fbc8938b3d.png)
 
 
