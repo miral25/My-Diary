@@ -64,13 +64,13 @@ Contributions are welcome! Please submit a pull request or create an issue for i
 
 ## Screenshots
 
-### 1. Login/Registration Page
+### 1. Registration Page
 ![1](https://user-images.githubusercontent.com/29537650/84148739-07fee280-aa7d-11ea-83e4-86fbc8938b3d.png)
 
-### 2. 
+### 2. Login Modal
 ![2](https://user-images.githubusercontent.com/29537650/84148744-09c8a600-aa7d-11ea-89ec-2685208da07f.png)
 
-### 3. 
+### 3. Compose Page
 ![3](https://user-images.githubusercontent.com/29537650/84148747-0af9d300-aa7d-11ea-81b3-7f6a4eed4019.png)
 
 ### 4. 
