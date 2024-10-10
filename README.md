@@ -62,9 +62,6 @@ WDL-MY-DIARY is an online personalized diary application that allows users to lo
 ## Contributing
 Contributions are welcome! Please submit a pull request or create an issue for improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
-
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/29537650/84148739-07fee280-aa7d-11ea-83e4-86fbc8938b3d.png)
 
@@ -86,4 +83,5 @@ This project is licensed under the MIT License.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/29537650/87233469-3b6abf00-c3e5-11ea-8a07-6989c3cab259.png)
 
-
+## License
+This project is licensed under the MIT License.
