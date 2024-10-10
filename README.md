@@ -63,24 +63,26 @@ WDL-MY-DIARY is an online personalized diary application that allows users to lo
 Contributions are welcome! Please submit a pull request or create an issue for improvements or bug fixes.
 
 ## Screenshots
+
+### 1. Login/Registration Page
 ![1](https://user-images.githubusercontent.com/29537650/84148739-07fee280-aa7d-11ea-83e4-86fbc8938b3d.png)
 
-
+### 2. 
 ![2](https://user-images.githubusercontent.com/29537650/84148744-09c8a600-aa7d-11ea-89ec-2685208da07f.png)
 
-
+### 3. 
 ![3](https://user-images.githubusercontent.com/29537650/84148747-0af9d300-aa7d-11ea-81b3-7f6a4eed4019.png)
 
-
+### 4. 
 ![4](https://user-images.githubusercontent.com/29537650/84148751-0c2b0000-aa7d-11ea-81bc-524754d2174f.png)
 
-
+### 5. 
 ![5](https://user-images.githubusercontent.com/29537650/84148757-0d5c2d00-aa7d-11ea-82cf-a8ffbc1b34d2.png)
 
-
+### 6. 
 ![6](https://user-images.githubusercontent.com/29537650/84148767-0f25f080-aa7d-11ea-8ed1-a30a0260a525.png)
 
-
+### 7. 
 ![Screenshot_1](https://user-images.githubusercontent.com/29537650/87233469-3b6abf00-c3e5-11ea-8a07-6989c3cab259.png)
 
 ## License
